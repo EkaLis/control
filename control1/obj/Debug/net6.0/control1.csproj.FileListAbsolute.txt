@@ -1,0 +1,15 @@
+/Users/ekaterinamakarova/Desktop/control/control1/bin/Debug/net6.0/control1
+/Users/ekaterinamakarova/Desktop/control/control1/bin/Debug/net6.0/control1.deps.json
+/Users/ekaterinamakarova/Desktop/control/control1/bin/Debug/net6.0/control1.runtimeconfig.json
+/Users/ekaterinamakarova/Desktop/control/control1/bin/Debug/net6.0/control1.dll
+/Users/ekaterinamakarova/Desktop/control/control1/bin/Debug/net6.0/control1.pdb
+/Users/ekaterinamakarova/Desktop/control/control1/obj/Debug/net6.0/control1.csproj.AssemblyReference.cache
+/Users/ekaterinamakarova/Desktop/control/control1/obj/Debug/net6.0/control1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamakarova/Desktop/control/control1/obj/Debug/net6.0/control1.AssemblyInfoInputs.cache
+/Users/ekaterinamakarova/Desktop/control/control1/obj/Debug/net6.0/control1.AssemblyInfo.cs
+/Users/ekaterinamakarova/Desktop/control/control1/obj/Debug/net6.0/control1.csproj.CoreCompileInputs.cache
+/Users/ekaterinamakarova/Desktop/control/control1/obj/Debug/net6.0/control1.dll
+/Users/ekaterinamakarova/Desktop/control/control1/obj/Debug/net6.0/refint/control1.dll
+/Users/ekaterinamakarova/Desktop/control/control1/obj/Debug/net6.0/control1.pdb
+/Users/ekaterinamakarova/Desktop/control/control1/obj/Debug/net6.0/control1.genruntimeconfig.cache
+/Users/ekaterinamakarova/Desktop/control/control1/obj/Debug/net6.0/ref/control1.dll
